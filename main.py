@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime, timedelta
 
-Api_key = "37f79cecf91d468eba866f8758a69dcd"
+Api_key = "API"
 url = "https://api.football-data.org/v2/competitions/PL/matches?season=2023"
 
 
